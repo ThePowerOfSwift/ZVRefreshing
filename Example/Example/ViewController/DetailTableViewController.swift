@@ -101,4 +101,3 @@ extension DetailTableViewController {
         return .lightContent
     }
 }
-
